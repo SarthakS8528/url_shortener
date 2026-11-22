@@ -239,7 +239,7 @@ Make sure you have the following installed:
 
 ```bash
 git clone https://github.com/SarthakS8528/url-shortener.git
-cd url_short
+cd url_shortener
 ```
 
 ### 2. Configure Environment Variables
@@ -378,5 +378,5 @@ Potential enhancements for future iterations include:
 
 **Sarthak Srivastava**
 
-- GitHub: [Your GitHub Profile](https://github.com/SarthakS8528)
-- LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/sarthak-srivastava-a7070227a)
+- GitHub: (https://github.com/SarthakS8528)
+- LinkedIn: (www.linkedin.com/in/sarthak-srivastava-a7070227a)
